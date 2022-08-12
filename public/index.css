@@ -1,0 +1,21 @@
+body{
+	background-color: white;
+}
+.container{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+}
+.box{
+	height:500px;
+	width: 300px;
+	background-color: black;
+}
+.btn{
+	color: white;
+	background-color: black;
+	width: 100px;
+	height: 15px;
+
+}
